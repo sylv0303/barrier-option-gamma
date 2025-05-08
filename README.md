@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gamma autour d'une barrière - Simulation Monte Carlo
 
 Ce projet Streamlit permet de visualiser le Gamma d'une option barrière via simulation Monte Carlo.
@@ -6,3 +7,6 @@ Ce projet Streamlit permet de visualiser le Gamma d'une option barrière via sim
 
 ```bash
 pip install -r requirements.txt
+=======
+# barrier-option-gamma
+>>>>>>> 0030c180900cf0821d39fc4f3d9141f1df10c447
